@@ -1,0 +1,1 @@
+print("Package game dipanggil")
